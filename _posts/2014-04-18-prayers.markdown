@@ -1,0 +1,27 @@
+---
+layout: post
+title: Prayers
+date: 2014-04-18 22:23:59.000000000 -07:00
+categories:
+- Comic
+tags:
+- facebook
+- god
+- prayers
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _wpas_done_all: '1'
+  _su_rich_snippet_type: none
+  _s2mail: 'yes'
+author:
+  login: admin
+  email: sean@seanchoe.com
+  display_name: Sean
+  first_name: Sean
+  last_name: Choe
+---
+<p><a href="http://tapastic.com/episode/37239"><img class="aligncenter wp-image-363 size-full" src="assets/prayers.png" alt="Prayers" width="640" height="640" /></a></p>
+<p>&nbsp;</p>

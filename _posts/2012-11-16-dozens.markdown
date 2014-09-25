@@ -1,0 +1,29 @@
+---
+layout: post
+title: Dozens
+date: 2012-11-16 06:37:33.000000000 -08:00
+categories:
+- Comic
+tags:
+- developer
+- idea
+status: publish
+type: post
+published: true
+meta:
+  _thumbnail_id: '99'
+  _edit_last: '1'
+  _su_og_type: ''
+  _su_og_title: ''
+  _su_og_description: ''
+  _su_og_image: ''
+author:
+  login: admin
+  email: sean@seanchoe.com
+  display_name: Sean
+  first_name: Sean
+  last_name: Choe
+---
+<div class="separator" style="clear: both; text-align: center;"><a href="http://seanchoe.com/blog/wp-content/uploads/2012/11/wpid-Photo-Nov-16-2012-1244-PM.jpg" target="_blank" style="margin-left: 1em; margin-right: 1em;"><img src="assets/wpid-Photo-Nov-16-2012-1244-PM.jpg" id="blogsy-1353098788862.115" class="aligncenter" width="400" height="1165" alt="" /></a></div>
+<p>&nbsp;</p>
+<div style="text-align: right; font-size: small; clear: both;" id="blogsy_footer"><a href="http://blogsyapp.com" target="_blank"><img src="assets/blogsy_footer_icon.png" alt="Posted with Blogsy" style="vertical-align: middle; margin-right: 5px;" width="20" height="20" />Posted with Blogsy</a></div>
