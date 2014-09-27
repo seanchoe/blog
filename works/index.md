@@ -7,16 +7,7 @@ tags: []
 status: publish
 type: page
 published: true
-meta:
-  _edit_last: '1'
-  _s2mail: 'yes'
-  _su_rich_snippet_type: none
-author:
-  login: admin
-  email: sean@seanchoe.com
-  display_name: Sean
-  first_name: Sean
-  last_name: Choe
+pretty_url: /works
 ---
 <h2>Blogsy for iPad</h2>
 <address>1.0 Release on April 2011</address>

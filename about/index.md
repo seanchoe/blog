@@ -7,16 +7,7 @@ tags: []
 status: publish
 type: page
 published: true
-meta:
-  _edit_last: '1'
-  _s2mail: 'yes'
-  _su_rich_snippet_type: none
-author:
-  login: admin
-  email: sean@seanchoe.com
-  display_name: Sean
-  first_name: Sean
-  last_name: Choe
+pretty_url: /about
 ---
 <p><a href="http://seanchoe.com/blog/wp-content/uploads/2012/11/profile.png"><img class="size-full wp-image-39 alignnone" title="profile" src="assets/profile.png" alt="" width="200" height="200" /></a></p>
 <p>Hi There, my name is Sean Choe.</p>
