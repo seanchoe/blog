@@ -165,6 +165,10 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+
+    @include media-query($on-palm) {
+        padding: 0;
+    }
 }
 
 .page-heading {
