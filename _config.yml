@@ -9,6 +9,8 @@ github_username:  seanchoe
 permalink: /:year/:month/:title/
 paginate: 10
 paginate_path: page:num
+gems:
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
