@@ -3,7 +3,7 @@ title: "Sean Choe's Blog"
 email: sean@seanchoe.com
 description: "Sean Choe's Blog Posts and Works"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://seanchoe.com # the base hostname & protocol for your site
+url: http://blog.seanchoe.com # the base hostname & protocol for your site
 twitter_username: seanchoe
 github_username:  seanchoe
 permalink: /:year/:month/:title/
