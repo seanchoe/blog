@@ -6,7 +6,7 @@ categories: []
 tags: []
 status: publish
 type: page
-published: true
+published: false
 pretty_url: /works
 ---
 <h2>Blogsy for iPad</h2>

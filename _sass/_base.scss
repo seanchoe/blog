@@ -41,6 +41,7 @@ ul, ol, dl, figure,
  */
 img {
     max-width: 100%;
+    height: auto;
     vertical-align: middle;
 }
 
@@ -80,6 +81,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
+    margin-top: 20px;
 }
 
 
@@ -92,12 +94,11 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: $brand-color;
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: $link-hover-color;
     }
 }
 

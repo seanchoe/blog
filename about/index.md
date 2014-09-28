@@ -9,15 +9,24 @@ type: page
 published: true
 pretty_url: /about
 ---
-<p><a href="http://seanchoe.com/blog/wp-content/uploads/2012/11/profile.png"><img class="size-full wp-image-39 alignnone" title="profile" src="assets/profile.png" alt="" width="200" height="200" /></a></p>
-<p>Hi There, my name is Sean Choe.</p>
-<p>I've moved from South Korea to Bay Area on 2013, and working as a UX/Graphic designer + iOS/Web Developer. I'm living peacefully in a small city called Belmont, with my lovely wife.</p>
-<p>I love technology, music, movies and art. Also interested in entrepreneurship and startups.</p>
-<p>I also enjoy drawing comics and caricatures as hobbies.</p>
-<p>You can know more details about me at my <a href="http://twitter.com/seanchoe" target="_blank">Twitter</a> and <a href="http://linkedin.com/in/seanchoe" target="_blank">LinkedIn page</a>.</p>
-<p>If you want to email me send it to: sean (at) seanchoe.com</p>
-<p>Thank you and hope you enjoy my website!</p>
-<p>&nbsp;</p>
-<h3>Other Websites</h3>
-<p><strong><a title="Sean's Casual Blog" href="http://seanchoe.wordpress.com/" target="_blank">Sean's Casual Blog</a> </strong>- My old blog on WordPress.com. Thoughts and photos.</p>
-<p><strong><a title="Sean's Open Travel" href="http://seanopentravel.wordpress.com/" target="_blank">Sean's Open Travel</a></strong> - A journal of the travel to US in 2010.</p>
+![Profile]({{ site.baseurl }}/assets/profile.png)
+
+Hi There, my name is Sean Choe.
+
+I've moved from South Korea to Bay Area on 2013, and working as a UX/Graphic designer + iOS/Web Developer at a company called ZeroDesktop. I'm living peacefully in a small city called Belmont, with my lovely wife.
+
+I love technology, music, movies and art. Also interested in entrepreneurship and startups.
+
+I also enjoy drawing comics and caricatures as hobbies.
+
+You can know more details about me at my [Twitter](http://twitter.com/seanchoe) and [LinkedIn profile](http://linkedin.com/in/seanchoe).
+
+If you want to email me send it to: sean (at) seanchoe.com
+
+Thank you and hope you enjoy my website!
+
+Other Websites
+--------------
+
+- [Sean's Casual Blog](http://seanchoe.wordpress.com) - My old blog on WordPress.com. Thoughts and photos.
+- [Sean's Open Travel](http://seanopentravel.wordpress.com/) - A journal of the travel to US in 2010.

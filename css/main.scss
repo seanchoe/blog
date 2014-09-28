@@ -6,16 +6,17 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #444;
+$background-color: #ffffff;
+$brand-color:      #00aeff;
+$link-hover-color: #009af2;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -24,22 +25,18 @@ $grey-color-dark:  darken($grey-color, 25%);
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
-
-// Using media queries with like this:
-// @include media-query($palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+  @media screen and (max-width: $device) {
+      @content;
+  }
 }
 
-
+/* Retina */
+@mixin retina-query($ratio) {
+  @media all and (-webkit-min-device-pixel-ratio: $ratio) {
+    @content;
+  }
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
@@ -48,9 +45,127 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
+// Sean Choe custom
 
+.wrapper.content {
+  max-width: 540px;
+}
 
-// Mobile
-@include media-query($on-palm) {
+.brand-logo {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  margin-top: 12px;
+  background-image: url('../assets/seanchoe_brand.png');
+  background-repeat: no-repeat;
 
+  &:hover {
+      background-position: -32px 0;
+  }
+
+  // Retinq
+  @include retina-query(1.5) {
+    background-size: 32px 32px;
+    background-image: url('../assets/seanchoe_brand@2x.png');
+  }
+}
+
+.main-post {
+  margin: 0 0 100px 0;
+}
+
+.copyright {
+  font-size: 12px;
+  color: #888;
+}
+
+.pagination {
+  display: block;
+  height: 12px;
+}
+
+.button-page {
+  display: inline-block;
+  width: 28px;
+  height: 12px;
+  background-repeat: no-repeat;
+
+  &:hover {
+      background-position: -28px 0;
+  }
+}
+
+.button-page.up {
+  float: left;
+  background-image: url('../assets/link_page_up.png');
+
+  // Retina
+  @include retina-query(1.5) {
+    background-size: 28px 12px;
+    background-image: url('../assets/link_page_up@2x.png');
+  }
+}
+
+.button-page.down {
+  float: right;
+  background-image: url('../assets/link_page_down.png');
+
+  // Retina
+  @include retina-query(1.5) {
+    background-size: 28px 12px;
+    background-image: url('../assets/link_page_down@2x.png');
+  }
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links li {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.footer-link-icon {
+  display: block;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+
+  &:hover {
+      background-position: -16px 0;
+  }
+
+  // Retina
+  @include retina-query(1.5) {
+    background-size: 16px 16px;
+  }
+}
+
+.footer-link-icon.twitter {
+  background-image: url('../assets/link_twitter.png');
+
+  // Retina
+  @include retina-query(1.5) {
+    background-image: url('../assets/link_twitter@2x.png');
+  }
+}
+
+.footer-link-icon.rss {
+  background-image: url('../assets/link_rss.png');
+
+  // Retina
+  @include retina-query(1.5) {
+    background-image: url('../assets/link_rss@2x.png');
+  }
+}
+
+.footer-link-icon.email {
+  background-image: url('../assets/link_email.png');
+
+  // Retina
+  @include retina-query(1.5) {
+    background-image: url('../assets/link_email@2x.png');
+  }
 }
