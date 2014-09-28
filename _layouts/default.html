@@ -17,9 +17,9 @@
               <h1 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
               <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
             </header>
-            <div class="content">
+            <article class="post-content">
               {{ post.content }}
-            </div>
+            </article>
           </div>
         {% endfor %}
 
