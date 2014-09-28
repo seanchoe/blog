@@ -1,9 +1,9 @@
 # Site settings
-title: "Sean Choe's Blog"
+title: "Sean Choe : Blog"
 email: sean@seanchoe.com
-description: "Sean Choe's Blog Posts and Works"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://blog.seanchoe.com # the base hostname & protocol for your site
+description: "Sean Choe is a UI/UX Designer, iOS/Web Developer and movie lover. Take a look at his thoughts on world."
+baseurl: ""
+url: http://blog.seanchoe.com
 twitter_username: seanchoe
 github_username:  seanchoe
 permalink: /:year/:month/:title/
