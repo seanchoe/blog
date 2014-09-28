@@ -65,7 +65,7 @@ $on-laptop:        800px;
 
   // Retinq
   @include retina-query(1.5) {
-    background-size: 32px 32px;
+    background-size: 64px 32px;
     background-image: url('../assets/seanchoe_brand@2x.png');
   }
 }
@@ -93,6 +93,11 @@ $on-laptop:        800px;
   &:hover {
       background-position: -28px 0;
   }
+
+  // Retina
+  @include retina-query(1.5) {
+    background-size: 56px 12px;
+  }
 }
 
 .button-page.up {
@@ -101,7 +106,6 @@ $on-laptop:        800px;
 
   // Retina
   @include retina-query(1.5) {
-    background-size: 28px 12px;
     background-image: url('../assets/link_page_up@2x.png');
   }
 }
@@ -112,7 +116,6 @@ $on-laptop:        800px;
 
   // Retina
   @include retina-query(1.5) {
-    background-size: 28px 12px;
     background-image: url('../assets/link_page_down@2x.png');
   }
 }
@@ -139,7 +142,7 @@ $on-laptop:        800px;
 
   // Retina
   @include retina-query(1.5) {
-    background-size: 16px 16px;
+    background-size: 32px 16px;
   }
 }
 
