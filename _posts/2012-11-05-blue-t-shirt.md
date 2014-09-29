@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 author: Sean Choe
-redirect_from: "/blog/blue-t-shirt"
+redirect_from: "/blog/blue-t-shirt/"
 ---
 ![Blue T-shirt scene 1]({{ site.baseurl }}/assets/ep001_s01.png)
 ![Blue T-shirt scene 2]({{ site.baseurl }}/assets/ep001_s02.png)
