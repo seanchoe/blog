@@ -11,5 +11,7 @@ status: publish
 type: post
 published: true
 author: Sean Choe
+redirect_from:
+  - /blog/movie-theater/
 ---
 ![Self-driving Car]({{ site.baseurl }}/assets/wpid-Photo-20140610222556.jpg)

@@ -9,5 +9,7 @@ status: publish
 type: post
 published: true
 author: Sean Choe
+redirect_from:
+  - /blog/valentines-day/
 ---
 ![Valentine's Day]({{ site.baseurl }}/assets/wpid-Photo-Feb-18-2014-1125-PM.jpg)

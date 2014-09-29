@@ -10,5 +10,7 @@ status: publish
 type: post
 published: true
 author: Sean Choe
+redirect_from:
+  - /blog/the-lego-movie/
 ---
 ![The Lego Movie]({{ site.baseurl }}/assets/wpid-Photo-Feb-14-2014-957-PM.jpg)

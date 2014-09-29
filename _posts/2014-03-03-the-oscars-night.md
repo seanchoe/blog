@@ -10,5 +10,7 @@ status: publish
 type: post
 published: true
 author: Sean Choe
+redirect_from:
+  - /blog/the-oscars-night/
 ---
 ![The Oscars Night]({{ site.baseurl }}/assets/wpid-Photo-Mar-3-2014-1059-PM.jpg)

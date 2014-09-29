@@ -9,5 +9,7 @@ status: publish
 type: post
 published: true
 author: Sean Choe
+redirect_from:
+  - /blog/daylight-saving-time/
 ---
 ![Daylight Saving Time]({{ site.baseurl }}/assets/wpid-Photo-20140313213755.jpg)
