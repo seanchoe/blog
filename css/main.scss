@@ -188,6 +188,7 @@ $on-laptop:        800px;
   outline: none;
   color: #444;
   font-size: 14px;
+  -webkit-appearance: none;
 }
 
 #search-results {
@@ -213,6 +214,10 @@ $on-laptop:        800px;
   color: #888;
   margin: 0 0 10px 0;
   padding: 0;
+}
+
+#search-results p {
+  margin: 0;
 }
 
 #search-results article {
