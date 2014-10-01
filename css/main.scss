@@ -192,12 +192,20 @@ $on-laptop:        800px;
 }
 
 #search-results {
-  border: 1px #dddddd solid;
-  border-radius: 3px;
   margin-top: 20px;
   font-size: 18px;
-  padding: 20px;
+  padding: 10px;
   display: block;
+}
+
+#search-results .entries {
+  border: 1px #dddddd solid;
+  border-radius: 3px;
+  padding: 20px;
+
+  @include media-query($on-palm) {
+    padding: 10px;
+  }
 }
 
 #search-results h2 {
