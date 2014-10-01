@@ -34,6 +34,8 @@ You can add commenting feature to Jekyll using [Disqus](https://disqus.com) easi
 # Search and Sitemap
 You need a special treatment to add a search feature on Jekyll blog. We can use plugins like [Jekyll + indextank](https://github.com/PascalW/jekyll_indextank) or [Jekyll + lunr.js](https://github.com/slashdotdash/jekyll-lunr-js-search), or you can add a embed custom search. I added a [Google Custom Search](https://www.google.com/cse/all) snippet. You can even customize the style of the search box. To let Google to search all the posts in your blog, you need to submit a sitemap to [Google Webmaster Tool](https://www.google.com/webmasters/tools/home?hl=en). You can easily generate a sitemap file using [this trick](https://help.github.com/articles/sitemaps-for-github-pages). One more benefit of doing this is that people can also search your blog contents on Google.
 
+**Update:** I changed Google Custom Search to Jekyll + lunr.js. Because the sitemap.xml was not reflected in real-time, so the search didn't work as expected. However, there was a problem. You [cannot use](http://jekyllrb.com/docs/plugins/) Jekyll plugin on GitHub Pages. To solve the problem, you have to install the plugin when you test on the local server, then copy the search.json file from "_site" folder to the root folder before you sync to GitHub.
+
 # A Downside
 WordPress has it's own mobile app which let you write posts even when you're not with your laptop. But with Jekyll, as far as I know, the only way you can write a post so far is to create a file and push it to GitHub using a laptop.
 
