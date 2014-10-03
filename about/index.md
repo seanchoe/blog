@@ -11,7 +11,7 @@ pretty_url: /about
 ---
 ![Profile]({{ site.baseurl }}/assets/profile.png)
 
-Hi There, my name is Sean Choe.
+Hi there, my name is Sean Choe.
 
 I've moved from South Korea to Bay Area on 2013, and working as a UX/Graphic designer + iOS/Web Developer at a company called ZeroDesktop. I'm living peacefully in a small city called Belmont, with my lovely wife.
 
