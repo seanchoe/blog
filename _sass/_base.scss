@@ -82,6 +82,7 @@ li {
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
     margin-top: 20px;
+    color: $grey-color-dark;
 }
 
 
@@ -108,12 +109,10 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
+    color: #777;
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+    font-size: 16px;
 
     > :last-child {
         margin-bottom: 0;
