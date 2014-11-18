@@ -26,7 +26,7 @@ I think with Interstellar, Nolan showed the most enormous and ambitious imaginat
 
 Nolan's movie always shows very deep analysis and a lot of foreshadows. And Nolan presents them very roughly, so it's not easy to get them all as an audience. And he also leaves the audiences enough room to use their own imagination to understand his movie. Interstellar was not different.
 
-**Warning: Spoilers Ahead. Including Spoilers for &lsquo;2001: Space Odyssey&rsquo;.**
+**Warning: Spoilers ahead. Including spoilers for &lsquo;2001: Space Odyssey&rsquo;.**
 
 # 2001: Space Odyssey
 
