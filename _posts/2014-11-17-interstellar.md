@@ -10,7 +10,7 @@ published: false
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9733; (5/5)
 
-I used to read science cartoons when I was little, like many others. Every time I read about black hole in those books, I remember reading that no one knows that black hole really exist and if it does, what would be beyond it. I haven't really dived deep into it, but those kind of curiosity had been always excited me.
+I used to read science cartoons when I was little, like many others. Every time I read about black hole in those books, I remember reading that no one knows that black hole really exist and if it does, what would be beyond it. I haven't really dived deep into it, but those kind of mysteries had been always excited me.
 
 I knew Interstellar was a story about an astronaut travel into a black hole, because the [trailer](https://www.youtube.com/watch?v=0vxOhd4qlnA) obviously showed it. So I was really curious how Chris Nolan would imagine the world beyond the black hole. That was the most exciting part when I saw this movie for the first time.
 
