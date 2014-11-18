@@ -3,7 +3,7 @@ layout: post
 title: "Interstellar Review: Do Not Imagine Gentle"
 description: "I used to read science cartoons when I was little, like many others. Every time I've read about black hole in those books, I remember reading that no one knows that black hole really exist and if it does, what would be beyond it. I haven't really dived deep into it, but those kind of curiosity had been always excited me."
 og_image_url: /assets/interstellar.png
-published: false
+published: true
 ---
 
 ![Interstellar]({{ site.baseurl }}/assets/interstellar.png)
