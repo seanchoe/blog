@@ -88,6 +88,8 @@ In [Nolan's recent article](http://www.wired.com/2014/11/christopher-nolan-wired
 
 >Film’s relationship with dimensionality has always fascinated me: two-dimensional representations of three dimensions printed onto a strip whose length adds the dimension of time. Time is strikingly represented by the rapidly unspooling rolls of celluloid on a projector.
 
+The reason why Nolan has encouraged people to watch Interstellar in film format - Not only the IMAX 70mm, he even asked to screen them in 35mm format as well. - was not only the high resolution of IMAX, but also because of the relationship between film and dimensionality.
+
 If I borrow Nolan's metaphor, We are living in a world of a rolling film, and &lsquo;They&rsquo; are the editor of the film. We cannot stop or rewind the film, but &lsquo;They&rsquo; can jump back and forth in the film and even trim or fold it. the Tesseract can be compared to something &lsquo;They&rsquo; made for Cooper from pieces of the film.
 
 I was so impressed by the idea of Tesseract. I have imagined many possible scenarios about the world beyond the black hole before I see this movie, but the Tesseract was not close to anything I could imagine.
