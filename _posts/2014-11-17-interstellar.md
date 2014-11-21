@@ -122,6 +122,8 @@ What we know about &ldquo;Them&rdquo; is that they exist in five-dimensional spa
 
 &ldquo;They&rdquo; could be future mankind as Cooper speculated. I think we can solve the time travel paradox I mentioned earlier with a story like this: In the original parallel universe, the plan A failed so mankind went extinct with earth but Cooper and Brand executed the plan B on Edmund's planet so the new mankind prospered. But Cooper felt so bad that he left his daughter Murph dying so his left a testament says that if the mankind's intelligence evolves as they can travel back in time, he would like to complete the plan A save Murph and the whole mankind on earth. Cooper and Brand would be Adam and Eve for the new mankind, so I think the future mankind would execute the testament.
 
+But in hindsight, I think the Murphy's Law's analysis I mentioned earlier makes more sense.
+
 ## A.I.
 
 I've read the review of Interstellar from [Jay's Anaysis](http://jaysanalysis.com/2014/11/12/interstellar-2014-the-secret-revelation/), and I thought his point makes a lot of sense. He says &ldquo;They&rdquo; might be computer/human hybrid. In other words, the future mankind Cooper mentioned in Tesseract might be the artificial intelligential existence created by human in fact.
