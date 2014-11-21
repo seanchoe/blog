@@ -148,7 +148,7 @@ Interstellar also contains a lot of religious references. It starts from the nam
 
 I think Nolan put all of these references to make the audiences imagine in many different ways about the movie.
 
-# Conclusion
+# The Bottom Line
 
 Kubrick also said in the same interview:
 
