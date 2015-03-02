@@ -15,8 +15,8 @@ $spacing-unit:     30px;
 
 $text-color:       #444;
 $background-color: #ffffff;
-$brand-color:      #00aeff;
-$link-hover-color: #009af2;
+$brand-color:      #2FB1FF;
+$link-hover-color: #1888CB;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -53,19 +53,19 @@ $on-laptop:        800px;
 
 .brand-logo {
   display: inline-block;
-  width: 32px;
-  height: 32px;
+  width: 42px;
+  height: 42px;
   margin-top: 12px;
   background-image: url('../assets/seanchoe_brand.png');
   background-repeat: no-repeat;
 
   &:hover {
-      background-position: -32px 0;
+      background-position: -42px 0;
   }
 
   // Retinq
   @include retina-query(1.5) {
-    background-size: 64px 32px;
+    background-size: 84px 42px;
     background-image: url('../assets/seanchoe_brand@2x.png');
   }
 }
