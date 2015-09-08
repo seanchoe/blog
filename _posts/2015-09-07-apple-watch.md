@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Everyone Will Have an Apple Watch, Eventually"
-description: "I've seen pretty many posts that says Apple's new Force Touch trackpads are amazing, So I would like to try myself."
-og_image_url: /assets/force-touch-01.png
+description: "It's been four months since Apple Watch was released, but still it happens pretty often that someone sees me wearing an Apple Watch and ask me how I like it."
+og_image_url: /touch-icon-iphone-retinahd.png
 published: true
 ---
 
