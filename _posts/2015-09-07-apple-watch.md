@@ -58,7 +58,7 @@ I send Yo to my wife every evening when I leave office for home. I leave office 
 
 [Fantastical](https://flexibits.com/fantastical), [Outlook](https://itunes.apple.com/us/app/microsoft-outlook/id951937596?mt=8), and [Dark Sky](http://darkskyapp.com) are also the apps I found very useful on my watch. I occasionally use [CalcBot](http://tapbots.com/calcbot/), [Square Cash](https://itunes.apple.com/us/app/square-cash-send-money-for/id711923939?mt=8), and [Authy](https://itunes.apple.com/us/app/authy/id494168017?mt=8) as well. They are not every day apps, but they are very useful at a certain situation.
 
-## Every one will have something like Apple Watch eventually
+## Everyone will have something like Apple Watch eventually
 
 If someone ask you about Apple Watch, chances are that they want one too. They're tempted to buy one but it's so hard to justify it.
 
