@@ -23,7 +23,7 @@ You can know more details about me at my [Twitter](http://twitter.com/seanchoe) 
 
 If you want to email me send it to: sean (at) seanchoe.com
 
-Thank you and hope you enjoy my website!
+Thank you and hope you enjoy my blog!
 
 Other Websites
 --------------
