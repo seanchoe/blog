@@ -9,7 +9,9 @@ type: page
 published: true
 pretty_url: /about
 ---
-![Profile]({{ site.baseurl }}/assets/profile.png)
+<div class="center">
+	<img src="{{ site.baseurl }}/assets/profile.png" alt="profile" />
+</div>
 
 Hi there, my name is Sean Choe.
 

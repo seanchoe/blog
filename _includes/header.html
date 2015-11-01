@@ -26,7 +26,7 @@
       </a>
 
       <div class="trigger">
-	      <a href="http://works.seanchoe.com">Works</a>
+	      <a class="page-link" href="http://works.seanchoe.com">Works</a>
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.pretty_url | prepend: site.baseurl }}">{{ page.title }}</a>
