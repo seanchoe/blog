@@ -104,7 +104,7 @@ There's a scene where Murph complains to Cooper why he made her name out of Murp
 
 Then I found a [Quora answer](http://www.quora.com/What-is-Murphys-Law-How-is-it-related-to-the-Interstellar-film) about that topic, and I think I finally got an idea about it.
 
-In five-dimensional space, if you can move across time and space, it will be really easy to mess up the whole universe. Because if you change something in the past that will change the future as well. So I guess &lsquo;Murphy's law&rsquo; can be considered a very important law of nature and something you cannot break in five-dimensional space.
+In five-dimensional space, if you can move across time and space, it will be really easy to mess up the whole universe. Because if you change something in the past that will change the future as well. So I guess &lsquo;Murphy's law&rsquo; can be considered a very important law of nature and something you cannot break in five-dimensional space.
 
 If I borrow Nolan's film metaphor again, If you cut the film into many pieces and edit them however you want, the whole movie will be messed up. The movie has to have a story. Causes and effects. &ldquo;what ever can happen, will happen&rdquo;.
 
