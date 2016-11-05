@@ -12,4 +12,4 @@ author: Sean Choe
 redirect_from:
   - /blog/working-in-silicon-valley/
 ---
-![Working in Silicon Valley]({{ site.baseurl }}/assets/wpid-Photo-Feb-28-2014-1223-AM.jpg)
+![Working in Silicon Valley]({{ site.url }}/assets/wpid-Photo-Feb-28-2014-1223-AM.jpg)

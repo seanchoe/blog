@@ -13,4 +13,4 @@ author: Sean Choe
 redirect_from:
   - /blog/big-sur-camping/
 ---
-![Self-driving Car]({{ site.baseurl }}/assets/wpid-Photo-20140507214713.jpg)
+![Self-driving Car]({{ site.url }}/assets/wpid-Photo-20140507214713.jpg)

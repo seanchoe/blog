@@ -13,4 +13,4 @@ author: Sean Choe
 redirect_from:
   - /blog/the-lego-movie/
 ---
-![The Lego Movie]({{ site.baseurl }}/assets/wpid-Photo-Feb-14-2014-957-PM.jpg)
+![The Lego Movie]({{ site.url }}/assets/wpid-Photo-Feb-14-2014-957-PM.jpg)

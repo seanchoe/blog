@@ -14,4 +14,4 @@ author: Sean Choe
 redirect_from:
   - /blog/super-heroes/
 ---
-![Self-driving Car]({{ site.baseurl }}/assets/wpid-Photo-20140426205811.jpg)
+![Self-driving Car]({{ site.url }}/assets/wpid-Photo-20140426205811.jpg)

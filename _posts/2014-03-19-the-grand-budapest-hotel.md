@@ -12,4 +12,4 @@ author: Sean Choe
 redirect_from:
   - /blog/the-grand-budapest-hotel/
 ---
-![The Grand Budapest Hotel]({{ site.baseurl }}/assets/wpid-Photo-20140320000039.jpg)
+![The Grand Budapest Hotel]({{ site.url }}/assets/wpid-Photo-20140320000039.jpg)
