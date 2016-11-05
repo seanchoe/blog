@@ -12,7 +12,7 @@ So I went to Apple Store in Hillsdale mall today, and I could try the new trackp
 
 I tried the trackpad, and I thought I tried the old MacBook Pro by mistake.
 
-![Force Touch trackpad]({{ site.baseurl }}/assets/force-touch-01.png)
+![Force Touch trackpad]({{ site.url }}/assets/force-touch-01.png)
 
 I checked carefully again, and it WAS the new MacBook Pro with Force Touch trackpad. It felt exactly like I'm clicking and the trackpad and it's actually moving down. I was completely deceived.
 
@@ -30,7 +30,7 @@ One more thing is, Force Touch works only when you click with one finger. If you
 
 There're two types on human on the earth. Ones who use physical click for trackpad, and ones who use "tap to click".  If you use tap to click, you just tap the trackpad as you tap on iPhone's touch screen. You can use tap to click with the new Force Touch trackpad too. You just have to turn it on in the settings.
 
-![Tap to click]({{ site.baseurl }}/assets/force-touch-02.png)
+![Tap to click]({{ site.url }}/assets/force-touch-02.png)
 
 If you turn it on, it works along with regular and Force Touch. In other word, whether you tap or click, same thing will happen. Only Force Touch is different.
 
@@ -38,7 +38,7 @@ If you turn it on, it works along with regular and Force Touch. In other word, w
 
 You can turn off the "Force Touch" in the settings too.
 
-![Tap with three fingers]({{ site.baseurl }}/assets/force-touch-03.png)
+![Tap with three fingers]({{ site.url }}/assets/force-touch-03.png)
 
 If you turn it off, You can use "tap with three fingers" to do the things that Force Touch would do. That means you can do those things on the old MacBook's trackpads as well with software update.
 
