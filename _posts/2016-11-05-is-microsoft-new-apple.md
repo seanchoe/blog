@@ -5,7 +5,7 @@ description: "There has been a lot of controversies during last week about Apple
 og_image_url: /assets/2016-11/mac_book_pro_2016.jpg
 published: true
 ---
-![New 2016 MacBook Pro](/assets/2016-11/mac_book_pro_2016.jpg)
+![New 2016 MacBook Pro]({{ site.url }}/assets/2016-11/mac_book_pro_2016.jpg)
 
 There has been a lot of controversies during last week about Apple's new 2016 MacBook Pro and Apple in general as a company. Although some of them are valid complains, I found most of them absurd.
 
@@ -67,7 +67,7 @@ I felt the same way.
 
 I went to Apple Union Square right after the Microsoft store, and tried Apple Pencil on 12.9-inch iPad Pro. It felt so much better. No mouse cursor, and just felt like drawing on a paper.
 
-![Just a random drawing](/assets/2016-11/ipad_pro.jpg)
+![Just a random drawing]({{ site.url }}/assets/2016-11/ipad_pro.jpg)
 
 ## Will Apple be in trouble now?
 Nope. No need to worry about it. Although Apple seemed [pretty](http://www.imore.com/apple-usb-c-thunderbolt-3-price-cut) [shocked](http://www.macrumors.com/2016/11/04/apple-lg-display-major-price-cut/) by all of the backlashes, They had [more orders for the new MacBook Pro than any other pro notebook before](http://www.independent.co.uk/life-style/gadgets-and-tech/features/apple-macbook-pro-new-philip-schiller-interview-phil-iphone-ios-criticism-a7393156.html). And they are doing [pretty good](http://www.investors.com/news/technology/click/apple-iphone-grabs-104-of-smartphone-industry-profit-in-q3/) overall. Will Microsoft Surface Studio be a huge hit? We should wait and see, but I would bet against it.
