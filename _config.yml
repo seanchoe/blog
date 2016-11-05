@@ -7,11 +7,13 @@ url: http://blog.seanchoe.com
 twitter_username: seanchoe
 github_username:  seanchoe
 permalink: /:year/:month/:title/
-paginate: 10
+paginate: 5
 paginate_path: page:num
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-lunr-js-search
 
 # Build settings
 markdown: kramdown
