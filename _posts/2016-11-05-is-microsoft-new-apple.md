@@ -23,21 +23,19 @@ However, think about it. Who really uses function keys? I only use them for stuf
 ## Would looking down to tap Touch Bar bothering?
 Touch Bar is located less than an inch away from the bottom of the screen. Comparing to the old models, Apple shifted up the keyboard closer to the screen in the new MacBook Pros. Touch Bar is like a blended area between the screen and the keyboard. I haven't tried Touch Bar yet either, but I think it would be pretty natural.
 
-## Should Apple have just made the whole keyboard touch screen?
-Apple's Phil Schiller did a [great interview](http://www.independent.co.uk/life-style/gadgets-and-tech/features/apple-macbook-pro-new-philip-schiller-interview-phil-iphone-ios-criticism-a7393156.html) about the new MacBook Pro with Independent. His quote:
+## Will Apple eventually make the whole keyboard touch screen?
+Although Touch Bar is designed to look and tap, Keyboard area should remain as tactile keys so that people can type without looking down, just with the muscle memory. That basic principal makes people to be able to use laptops hours without hurting their neck or arm, and that's what makes laptop a professional device, different from iPad.
+
+## Will Apple eventually make a touch screen Mac like Surface Studio?
+Apple's Phil Schiller did a [great interview](http://www.independent.co.uk/life-style/gadgets-and-tech/features/apple-macbook-pro-new-philip-schiller-interview-phil-iphone-ios-criticism-a7393156.html) about the new MacBook Pro with Independent. Take his word for this:
 
 > ...The new MacBook Pro is a product that celebrates that it is a notebook, this shape that has been with us for the last 25 years is probably going to be with us for another 25 years because there’s something eternal about the basic notebook form factor.
 
 > You have a surface that you type down on with your hands, with a screen facing you vertically. That basic orientation, that L shape makes perfect sense and won’t go away. The team came up with this idea that you can create a multi-touch surface that’s coplanar with the keyboard and the trackpad but brings a whole new experience into it, one that’s more interactive, with multi-touch.
 
-## Will Apple eventually make a touch screen Mac like Surface Studio?
-Take Phil Schiller's word again:
-
 > We’re steadfast in our belief that there are fundamentally two different products to make for customers and they’re both important. There’s iPhone and iPad which are single pieces of glass, they’re direct-manipulation, multi-touch and tend towards full-screen applications. And that’s that experience. And we want to make those the best in that direction anyone can imagine. We have a long road ahead of us on that.
 
 > Then there’s the Mac experience, dominated by our notebooks and that’s about indirect manipulation and cursors and menus. We want to make this the best experience we can dream of in this direction.
-
-> Here’s one example of how they should remain distinct: the Mac from the very first has had a menu bar fixed at the top. It’s core to the identity and the experience you get. But iOS doesn’t have a menu at the top. It never will. The thought of pointing at a menu at the top of an iPhone feels wrong. If you made the Mac a touchscreen you’d have to figure out how to make it a good experience with your finger on a touchscreen. Trust me, we’ve looked at that — it’s a bad experience. It’s not as good or as intuitive as with a mouse and trackpad.
 
 ## Should Apple have just kept the tactile ESC key?
 ESC key does many things. Exiting fullscreen, cancelling an action and so forth. It would make much more sense to make the key dynamic.
