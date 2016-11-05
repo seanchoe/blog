@@ -24,7 +24,7 @@ However, think about it. Who really uses function keys? I only use them for stuf
 Touch Bar is located less than an inch away from the bottom of the screen. Comparing to the old models, Apple shifted up the keyboard closer to the screen in the new MacBook Pros. Touch Bar is like a blended area between the screen and the keyboard. I haven't tried Touch Bar yet either, but I think it would be pretty natural.
 
 ## Will Apple eventually make the whole keyboard touch screen?
-Although Touch Bar is designed to look and tap, Keyboard area should remain as tactile keys so that people can type without looking down, just with the muscle memory. That basic principal makes people to be able to use laptops hours without hurting their neck or arm, and that's what makes laptop a professional device, different from iPad.
+Although Touch Bar is designed to look and tap, Keyboard area should remain as tactile keys so that people can type without looking down, just with the muscle memory. That basic principal makes people to be able to use laptops hours without hurting their neck or arm. And that's what makes laptop a professional device, different from iPad.
 
 ## Will Apple eventually make a touch screen Mac like Surface Studio?
 Apple's Phil Schiller did a [great interview](http://www.independent.co.uk/life-style/gadgets-and-tech/features/apple-macbook-pro-new-philip-schiller-interview-phil-iphone-ios-criticism-a7393156.html) about the new MacBook Pro with Independent. Take his word for this:
