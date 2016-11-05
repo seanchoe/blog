@@ -6,7 +6,7 @@ og_image_url: /assets/interstellar.png
 published: true
 ---
 
-![Interstellar]({{ site.baseurl }}/assets/interstellar.png)
+![Interstellar]({{ site.url }}/assets/interstellar.png)
 
 Rating: &#9733;&#9733;&#9733;&#9733;&#9733; (5/5)
 
