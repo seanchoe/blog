@@ -43,10 +43,10 @@ ESC key does many things. Exiting fullscreen, cancelling an action and so forth.
 ## Is going USB-C only a bad idea?
 I don't think so. Having to carry the dongles around might be bothering for now, but if they didn't go USB-C ports this year, When would it be? They would have the same conflicts and controversies even if it were next year. It's the same thing as removing the headphone jack from iPhone. It's obvious that USB-C is thinner, faster and better. All of the peripherals would go USB-C eventually. If you have to do it sooner or later, Why not sooner? It's about saying no, taking risks, and maybe, courage.
 
-## Should Apple have kept MacSafe?
-MacSafe is one of the things got removed from the new MacBook Pro that most of people are missing, including [John Gruber](http://daringfireball.net/linked/2016/11/02/requiem-for-magsafe).
+## Should Apple have kept MagSafe?
+MagSafe is one of the things got removed from the new MacBook Pro that most of people are missing, including [John Gruber](http://daringfireball.net/linked/2016/11/02/requiem-for-magsafe).
 
-But I think sunsetting MacSafe must have been Apple's intensional decision. Apple's ultimate goal for MacBook must be making it a true mobile device. Apple will keep making MacBook lighter and thinner, maybe until when it would be light and thin as actual notebook. What is the ultimate mobile device that exists today? iPhone! Do you need MacSafe when you charge an iPhone? No. You just charge iPhone while you sleep or work, and you don't plug it in when you use it. Apple's goal for MacBooks must be the same. Apple doesn't design out of needs. Their design speaks the direction that the product is going.
+But I think sunsetting MagSafe must have been Apple's intensional decision. Apple's ultimate goal for MacBook must be making it a true mobile device. Apple will keep making MacBook lighter and thinner, maybe until when it would be light and thin as actual notebook. What is the ultimate mobile device that exists today? iPhone! Do you need MagSafe when you charge an iPhone? No. You just charge iPhone while you sleep or work, and you don't plug it in when you use it. Apple's goal for MacBooks must be the same. Apple doesn't design out of needs. Their design speaks the direction that the product is going.
 
 ## Is Microsoft Surface Studio a revolutionary product?
 I think Surface Studio is actually a gimmicky product.
