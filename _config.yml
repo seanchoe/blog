@@ -3,7 +3,7 @@ title: "Sean Choe | Blog"
 email: sean@seanchoe.com
 description: "Sean Choe is a UI/UX Designer, an iOS/Web Developer and a movie lover. Take a look at his thoughts on the world."
 baseurl: ""
-url: http://blog.seanchoe.com
+url: https://seanchoe.com/blog
 twitter_username: seanchoe
 github_username:  seanchoe
 permalink: /:year/:month/:title/
